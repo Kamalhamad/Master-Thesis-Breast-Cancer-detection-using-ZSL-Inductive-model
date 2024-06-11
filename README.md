@@ -14,8 +14,9 @@ The proposed approach demonstrates the potential of ZSL in medical imaging, achi
 - **Code and Scripts**: Relevant code and scripts used in this project.
 - **Datasets**: Links or references to the BreakHis dataset used in the study.
 
-## How to Cite
+## Citation
 Hamad, K. S. H. (2024). Breast Cancer Detection Using Zero-Shot Learning. Master’s thesis, University of Europe for Applied Sciences.
 
 ## Contact
-For any questions or collaborations, please contact Kamal Siddig Hussain Hamad at [your-email@example.com].
+For any questions or collaborations, please contact Kamal Siddig Hussain Hamad at [Kamal.hamad@ue-germany.de].
+
